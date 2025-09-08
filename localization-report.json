@@ -1,0 +1,1028 @@
+{
+  "generatedAt": "2025-09-06T14:30:53.414Z",
+  "changedImports": 0,
+  "files": [
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\antimedia.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "> ⚠️ 𝐀𝐍𝐓𝐈𝐌𝐄𝐃𝐈𝐀 𝐀𝐓𝐓𝐈𝐕𝐎 ⚠️\\n 𝐒𝐨𝐥𝐨 𝐟𝐨𝐭𝐨 𝐞 𝐯𝐢𝐝𝐞𝐨 𝐚𝐝 1 𝐯𝐢𝐬𝐮𝐚𝐥 𝐬𝐨𝐧𝐨 𝐩𝐞𝐫𝐦𝐞𝐬𝐬𝐢."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\antispam.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "*antispam by Origin detected*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\apri.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🎁 Aprendo il pacchetto..."
+        },
+        {
+          "kind": "text",
+          "sample": "✨ Rivelando le carte..."
+        },
+        {
+          "kind": "text",
+          "sample": "🕯️ *Il potere oscuro ti ha risposto dopo molta attesa...*\\n🔄 Sistema _pity_ attivato dopo 15 pacchetti senza Darkness."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\cornuto.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "🤔 *Manca il nome della cornuta/o!* \\nScrivi così: `.cornuto @nome` oppure chiedi a matte😈😈"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\deleteplugin.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "\n╭━━━━━『 ⚠️ 𝐀𝐓𝐓𝐄𝐍𝐙𝐈𝐎𝐍𝐄 』━━━━━╮\n┃\n┃ 📁 *File non trovato nel filesystem*\n┃\n┃ 🔍 *Percorso cercato:*\n┃ \\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\entra.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "❌ Questo gruppo ha meno di 30 membri.\\nAumentate i membri e invitatemi di nuovo.oh si"
+        },
+        {
+          "kind": "text",
+          "sample": "⚠️ Impossibile controllare il gruppo. Link non valido o errore."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Questo gruppo ha meno di 30 membri.\\nAumentate i membri e invitatemi di nuovo."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\evolve.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🔄 Evoluzione in corso..."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-alcolizzato.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Tu"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-bonk.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "⚠️ Questo comando non funziona per utenti senza foto profilo."
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ Si è verificato un errore durante l\\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-coinflip.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❌ Inserisci una puntata valida!"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-cornuto.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "🤔 Manca il nome della cornuta/o! \\nScrivi così: .cornuto @nome oppure rispondi a un messaggio oppure chiedi a matte😈😈"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-drogato.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Tu"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-esci tris.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "Sei uscito dalla partita"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-nomeninja.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🚩 Inserisci il tuo nome accanto al comando."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-personalità.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🚩 Inserisci un nome accanto al comando."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-pokedex.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "🚩 Inserisci il nome di un Pokémon"
+        },
+        {
+          "kind": "text",
+          "sample": "⚠️ Errore nella ricerca del Pokémon"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-roulette.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🚩 Per favore, inserisci una quantità valida per la scommessa."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 La quantità massima di scommessa è di 50 *💶 Unitycoins*."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 Devi scommettere su un colore valido: *black* o *red*."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 Non hai abbastanza *💶 Unitycoins* per effettuare questa scommessa."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-roulettemorte.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "✧ C\\"
+        },
+        {
+          "kind": "reply",
+          "sample": "✧ Ci sono già due giocatori in questa sala."
+        },
+        {
+          "kind": "reply",
+          "sample": "✧ Non puoi accettare la tua stessa sfida."
+        },
+        {
+          "kind": "text",
+          "sample": "✦ Nessuno ha accettato la sfida, la sala è stata chiusa."
+        },
+        {
+          "kind": "text",
+          "sample": "✦ *Roulette della Morte* ✦\\n\\n❀ La sala è completa!\\n\\n> ✧ Selezionando il perdente..."
+        },
+        {
+          "kind": "text",
+          "sample": "✧ Calcolo risultato in corso!"
+        },
+        {
+          "kind": "text",
+          "sample": "✧ Il gioco è stato annullato dal creatore della sfida."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-scommessa.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "[ ✰ ] Scegli un'opzione per iniziare il gioco:"
+        },
+        {
+          "kind": "text",
+          "sample": "[ ✰ ] Scegli un'opzione valida (sasso/carta/forbice) per iniziare il gioco:"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\fun-traduci.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "⚠️ Uso corretto: *.traduci <testo> <lingua>*\\n📖 Esempio: *.traduci ciao cinese*"
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ Lingua non riconosciuta. Usa *.traduci* per vedere la lista delle lingue disponibili."
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ Errore nella traduzione. Verifica i parametri e riprova."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\game-fun.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "⚠️ Devi scegliere tra *testa* o *croce*! Scrivi la tua scelta."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Partita non disponibile o comando non valido.\\n\\nPer iniziare una nuova partita scrivi il comando "
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Comando non valido. Scrivi \""
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\game-mate.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "⚠️ C'è già una domanda attiva in questa chat!\\n\\n"
+        },
+        {
+          "kind": "reply",
+          "sample": "⏰ Tempo scaduto!\\n"
+        },
+        {
+          "kind": "reply",
+          "sample": "✅ *RISPOSTA CORRETTA!*\\n\\n"
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ Risposta sbagliata! Riprova"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\game-ppt.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "[ ✰ ] Scegli un\\"
+        },
+        {
+          "kind": "text",
+          "sample": "[ ✰ ] Scegli un\\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-cur.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "❌ Nessuna traccia trovata."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Nessun dato trovato."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Nessun dato trovato."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Uno dei due utenti non ha registrato il proprio username."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Errore nel recuperare i dati di confronto."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Nessuna cronologia trovata."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-fakereply.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "> *Parametri mancanti.* Assicurati di fornire tutti i dati richiesti."
+        },
+        {
+          "kind": "reply",
+          "sample": "> *Inserisci un link valido per l\\"
+        },
+        {
+          "kind": "reply",
+          "sample": "> *Classe non valida!* Sono accettate solo le seguenti:\\n\\n\\"
+        },
+        {
+          "kind": "reply",
+          "sample": "> *Personaggio aggiunto con successo!*\\n\\nRispondi a questo messaggio con \"invia\" o \"👍\" solo se desideri inviare i personaggi ai miei creat"
+        },
+        {
+          "kind": "reply",
+          "sample": "File inviato ai miei creatori! Continua ad aggiungere altri personaggi che desideri vedere in chatunity-bot"
+        },
+        {
+          "kind": "reply",
+          "sample": "Si è verificato un errore durante l\\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-ic.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "👀 *Ci sei quasi!* Riprova..."
+        },
+        {
+          "kind": "text",
+          "sample": "Vuoi giocare con un cantante specifico o in generale?"
+        },
+        {
+          "kind": "text",
+          "sample": "Vuoi un cantante casuale o vuoi sceglierlo tu?"
+        },
+        {
+          "kind": "text",
+          "sample": "Scrivi ora il nome del cantante con cui vuoi giocare."
+        },
+        {
+          "kind": "text",
+          "sample": "\nㅤㅤ⋆｡˚『 ╭ \\"
+        },
+        {
+          "kind": "text",
+          "sample": "\nㅤㅤ⋆｡˚『 ╭ \\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-infoanimali.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "⚠️ Errore durante l’elaborazione della scheda animale. Riprova più tardi."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-kcal.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "⚠️ Errore durante l’elaborazione. Riprova più tardi."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\gp-scopa.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "💦"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-ad.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-carcere.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-grigio.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-inverti.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-nokia.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-scherzo.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\img-wanted.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-anni.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "𝐔𝐭𝐢𝐥𝐢𝐳𝐳𝐚 .𝐬𝐞𝐭𝐚𝐧𝐧𝐢 𝐨 .𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐚𝐧𝐧𝐢\\n> 𝐈𝐧𝐬𝐞𝐫𝐢𝐬𝐜𝐢 𝐮𝐧'𝐞𝐭𝐚̀ 𝐯𝐚𝐥𝐢𝐝𝐚.\\n> 𝐋'𝐞𝐭𝐚̀ 𝐯𝐚𝐥𝐢𝐝𝐚 𝐞̀ "
+        },
+        {
+          "kind": "reply",
+          "sample": "✓ 𝐄𝐭𝐚̀ 𝐫𝐢𝐦𝐨𝐬𝐬𝐚."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-chatunity-server.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🚧 *Funzionalità in arrivo!*\\nPresto qui troverai tutte le info sul server ChatUnity."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-genere.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "𝐔𝐬𝐨 𝐝𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐜𝐨𝐫𝐫𝐞𝐭𝐭𝐨. 𝐃𝐢𝐠𝐢𝐭𝐚:\\n.𝐬𝐞𝐭𝐠𝐞𝐧𝐞𝐫𝐞 𝐦𝐚𝐬𝐜𝐡𝐢𝐨 / .𝐬𝐞𝐭𝐠𝐞𝐧𝐞𝐫𝐞 𝐟𝐞𝐦𝐦𝐢𝐧𝐚"
+        },
+        {
+          "kind": "reply",
+          "sample": "𝐆𝐞𝐧𝐞𝐫𝐞 𝐫𝐢𝐦𝐨𝐬𝐬𝐨 ✓"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-installa.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "𝐒𝐂𝐀𝐑𝐈𝐂𝐀 𝐂𝐇𝐀𝐓𝐔𝐍𝐈𝐓𝐘-𝐁𝐎𝐓 💬"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-msg.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Per impostare la tua età usa il comando .setanni <età>\\nPer rimuovere la tua età usa .eliminaanni"
+        },
+        {
+          "kind": "text",
+          "sample": "Specifica un nome utente Instagram con .setig <user> oppure usa .delig per rimuoverlo."
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Questo comando può essere usato solo nei gruppi."
+        },
+        {
+          "kind": "text",
+          "sample": "꧁════ ☾︎•✮•☽︎ ════꧂\\n"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-setig.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "Errore: Utente specificato non trovato."
+        },
+        {
+          "kind": "reply",
+          "sample": "ⓘ Nome Instagram eliminato con successo dal tuo profilo utente."
+        },
+        {
+          "kind": "reply",
+          "sample": "ⓘ Usa .setig <nomeutente> per impostare Instagram oppure .eliminaig per rimuoverlo."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\info-sport.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🏅 *Scegli il tuo sport preferito:*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\jadibot-deletesession.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐞 𝐒𝐮𝐛𝐁𝐨𝐭 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐚 𝐜𝐨𝐧 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐨."
+        },
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐍𝐨𝐧 𝐡𝐚𝐢 𝐬𝐞𝐬𝐬𝐢𝐨𝐧𝐢 𝐒𝐮𝐛𝐁𝐨𝐭 𝐜𝐨𝐥𝐥𝐞𝐠𝐚𝐭𝐞."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\jadibot-serbot.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "❌ Sub-bot disconnesso: "
+        },
+        {
+          "kind": "text",
+          "sample": "✅ Sub-bot creato con successo!"
+        },
+        {
+          "kind": "text",
+          "sample": "❌ Errore durante la creazione del sub-bot: "
+        },
+        {
+          "kind": "caption",
+          "sample": "Scansiona questo QR per collegare il sub-bot"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\jadibot-stop.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐔𝐭𝐢𝐥𝐢𝐳𝐳𝐚 𝐪𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐝𝐢𝐫𝐞𝐭𝐭𝐚𝐦𝐞𝐧𝐭𝐞 𝐧𝐞𝐥 𝐧𝐮𝐦𝐞𝐫𝐨 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥𝐞 𝐝𝐞𝐥 𝐁𝐨𝐭."
+        },
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐄𝐥𝐢𝐦𝐢𝐧𝐚𝐳𝐢𝐨𝐧𝐞 𝐝𝐞𝐢 𝐬𝐮𝐛-𝐛𝐨𝐭𝐬 𝐢𝐧 𝐜𝐨𝐫𝐬𝐨..."
+        },
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐋𝐚 𝐜𝐚𝐫𝐭𝐞𝐥𝐥𝐚 𝐣𝐚𝐝𝐢𝐛𝐭𝐬 𝐧𝐨𝐧 𝐞𝐬𝐢𝐬𝐭𝐞 𝐨 𝐞' 𝐯𝐮𝐨𝐭𝐚."
+        },
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐍𝐨𝐧 𝐜𝐢 𝐬𝐨𝐧𝐨 𝐬𝐮𝐛-𝐛𝐨𝐭𝐬 ‼️"
+        },
+        {
+          "kind": "text",
+          "sample": "ⓘ 𝐒𝐨𝐧𝐨 𝐬𝐭𝐚𝐭𝐢 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐢 𝐭𝐮𝐭𝐭𝐢 𝐢 𝐬𝐮𝐛-𝐛𝐨𝐭𝐬, 𝐫𝐢𝐚𝐯𝐯𝐢𝐚 𝐢𝐥 𝐛𝐨𝐭 𝐩𝐞𝐫 𝐫𝐞𝐧𝐝𝐞𝐫𝐞 𝐞𝐟𝐟𝐞𝐭𝐭𝐢𝐯𝐞 "
+        },
+        {
+          "kind": "text",
+          "sample": "Errore"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-aggiungiUC.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❌ *ACCESSO NEGATO* ❌\\n\\nSolo utenti autorizzati possono utilizzare questo comando!"
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ *VALORE NON VALIDO* ❌\\nDevi specificare un numero maggiore di 0"
+        },
+        {
+          "kind": "reply",
+          "sample": "🚷 *UTENTE NON REGISTRATO* 🚷\\nL'utente non è presente nel database"
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ *ERRORE CRITICO* ❌\\nSi è verificato un problema durante l'operazione"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-azzerabestemmie.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "Comando non valido assicurati di aver menzionato un utente."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-banuser.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❗ Per favore tagga un utente, rispondi a un messaggio o scrivi il numero di telefono (es: 3934xxxxxxx)"
+        },
+        {
+          "kind": "reply",
+          "sample": "❗ Numero non valido."
+        },
+        {
+          "kind": "reply",
+          "sample": "✅ 𝐐𝐮𝐞𝐬𝐭𝐨 𝐮𝐭𝐞𝐧𝐭𝐞 è 𝐬𝐭𝐚𝐭𝐨 𝐛𝐥𝐨𝐜𝐜𝐚𝐭𝐨 𝐝𝐚𝐥 𝐛𝐨𝐭"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-block-unblock.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "ok"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-cleartmp.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "𝐚𝐫𝐜𝐡𝐢𝐯𝐢 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐢 𝐜𝐨𝐧 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐨 ✓"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-editplugin.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❌ 𝐎𝐩𝐞𝐫𝐚𝐳𝐢𝐨𝐧𝐞 𝐚𝐧𝐧𝐮𝐥𝐥𝐚𝐭𝐚"
+        },
+        {
+          "kind": "reply",
+          "sample": "❌ 𝐎𝐩𝐞𝐫𝐚𝐳𝐢𝐨𝐧𝐞 𝐚𝐧𝐧𝐮𝐥𝐥𝐚𝐭𝐚"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-riavvio.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Sto riavviando"
+        },
+        {
+          "kind": "text",
+          "sample": "🚀🚀🚀🚀"
+        },
+        {
+          "kind": "text",
+          "sample": "🚀🚀🚀🚀🚀🚀"
+        },
+        {
+          "kind": "text",
+          "sample": "Riavviato con successo"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-unbanuser.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❗ Tagga, rispondi o scrivi il numero (es: 3934xxxxxxx)"
+        },
+        {
+          "kind": "reply",
+          "sample": "❗ Numero non valido."
+        },
+        {
+          "kind": "reply",
+          "sample": "✅ 𝐐𝐮𝐞𝐬𝐭𝐨 𝐮𝐭𝐞𝐧𝐭𝐞 𝐩𝐨𝐭𝐫𝐚' 𝐞𝐬𝐞𝐠𝐮𝐢𝐫𝐞 𝐝𝐢 𝐧𝐮𝐨𝐯𝐨 𝐢 𝐜𝐨𝐦𝐚𝐧𝐝𝐢"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\owner-update.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "❌ Errore durante l’aggiornamento:\\n"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\random-anime-waifu.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "⏳ Caricamento waifu in corso..."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\rpg-coin.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🔄 Evoluzione in corso..."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\rpg-ritira.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "🚩 Inserisci la quantità di *💶 UnityCoins* che vuoi prelevare."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 Non hai *💶 UnityCoins* nel conto bancario."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 La quantità deve essere un numero valido."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 Inserisci una quantità valida (almeno 1)."
+        },
+        {
+          "kind": "text",
+          "sample": "🚩 Non hai *💶 UnityCoins* nel conto bancario."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\rpg-rubaxp.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "📍 ᴅᴇᴠɪ ᴛᴀɢɢᴀʀᴇ ɪʟ ғʀᴏᴄɪᴏ!"
+        },
+        {
+          "kind": "reply",
+          "sample": "⚠️ ᴜᴛᴇɴᴛᴇ ɴᴏɴ ᴛʀᴏᴠᴀᴛᴏ ɴᴇʟ ᴅᴀᴛᴀʙᴀsᴇ"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\sticker-sremovebg.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "Sfondo rimosso.\\n\\n> *Powered by ChatUnity*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\subbot.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "令 *Utilizza questo comando direttamente sul numero principale del Bot*"
+        },
+        {
+          "kind": "reply",
+          "sample": "令 *Avvio del processo di eliminazione di tutti i file di sessione, eccetto il file creds.json...*"
+        },
+        {
+          "kind": "reply",
+          "sample": "令 *La cartella è vuota*"
+        },
+        {
+          "kind": "reply",
+          "sample": "令 *La cartella è vuota*"
+        },
+        {
+          "kind": "reply",
+          "sample": "令 *Ciao! Riesci a vedermi?*"
+        },
+        {
+          "kind": "reply",
+          "sample": "令 *Si è verificato un errore*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\subbots-.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "令 Il bot principale non può essere disattivato."
+        },
+        {
+          "kind": "reply",
+          "sample": "😐 Subbot disattivato."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\subbots-cancellasess.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "令 varesub-Bot eliminato."
+        },
+        {
+          "kind": "text",
+          "sample": "🌠 nessuna sessione di varebotsub incontrata."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\subbots-code.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Conexión perdida.."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\subbots-codeprem.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "*È STATA RILEVATA UNA NUOVA SESSIONE, ELIMINA LA NUOVA SESSIONE PER CONTINUARE*\\n\\n> *SE CI SONO PROBLEMI, RICONNETTITI*"
+        },
+        {
+          "kind": "text",
+          "sample": "*SESSIONE PENDENTE*\\n\\n> *PROVA A DIVENTARE NUOVAMENTE SUB-BOT*"
+        },
+        {
+          "kind": "text",
+          "sample": "*CONNESSIONE PERSA*\\n\\n> *PROVA MANUALMENTE A DIVENTARE NUOVAMENTE SUB-BOT*"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tool-traduci.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Traduzione: "
+        },
+        {
+          "kind": "text",
+          "sample": "Traduzione "
+        },
+        {
+          "kind": "text",
+          "sample": "errore"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tools-findbug.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "⚠️ *Errore critico durante l\\"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tools-gitclone.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ..."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tools-play.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "╭━━〔 ❗ 〕━━┈⊷\\n┃◈ *Inserisci un titolo o un link*\\n╰━━━━━━━━━━┈·๏"
+        },
+        {
+          "kind": "text",
+          "sample": "╭━━〔 ❗ 〕━━┈⊷\\n┃◈ *Nessun risultato trovato*\\n╰━━━━━━━━━━┈·๏"
+        },
+        {
+          "kind": "text",
+          "sample": "🎵 𝐚𝐮𝐝𝐢𝐨 𝐢𝐧 𝐚𝐫𝐫𝐢𝐯𝐨 𝐚𝐭𝐭𝐞𝐧𝐝𝐢 𝐪𝐮𝐚𝐥𝐜𝐡𝐞 𝐢𝐬𝐭𝐚𝐧𝐭𝐞..."
+        },
+        {
+          "kind": "text",
+          "sample": "🎬 𝐯𝐢𝐝𝐞𝐨 𝐢𝐧 𝐚𝐫𝐫𝐢𝐯𝐨 𝐚𝐭𝐭𝐞𝐧𝐝𝐢 𝐪𝐮𝐚𝐥𝐜𝐡𝐞 𝐢𝐬𝐭𝐚𝐧𝐭𝐞..."
+        },
+        {
+          "kind": "text",
+          "sample": "╭━━〔 ❗ 〕━━┈⊷\\n┃◈ *Nessun link valido trovato*\\n╰━━━━━━━━━━┈·๏"
+        },
+        {
+          "kind": "text",
+          "sample": "╭━━〔 ❗ 〕━━┈⊷\\n┃◈ *Nessun risultato trovato*\\n╰━━━━━━━━━━┈·๏"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tools-playvideo.js",
+      "strings": [
+        {
+          "kind": "reply",
+          "sample": "𝐌𝐚𝐧𝐜𝐚 𝐢𝐥 𝐧𝐨𝐦𝐞 𝐝𝐞𝐥 𝐯𝐢𝐝𝐞𝐨."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tools-voce.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "⬇️"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\tris.js",
+      "strings": [
+        {
+          "kind": "caption",
+          "sample": "𝐒𝐓𝐀𝐍𝐙𝐀 𝐂𝐑𝐄𝐀𝐓𝐀 ✓"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\z.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "Hai già sparato qui."
+        },
+        {
+          "kind": "caption",
+          "sample": "Battaglia Navale iniziata! Rispondi con coordinate tipo A1."
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Army\\Desktop\\chatunity-bot\\plugins\\_antibestemmie.js",
+      "strings": [
+        {
+          "kind": "text",
+          "sample": "⚠️ Impossibile rimuovere l'utente per bestemmie. Controlla i permessi del bot."
+        },
+        {
+          "kind": "text",
+          "sample": "⚠️ Messaggio eliminato per possibile contenuto inappropriato."
+        }
+      ]
+    }
+  ]
+}
